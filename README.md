@@ -1,1 +1,1 @@
-# openCv-imageRead-imageWrite
+# openCv-videoCapture
